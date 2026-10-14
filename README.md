@@ -163,7 +163,4 @@ Purpose:
 ---
 
 ## Team Members
-1. Sri Balaji R(1CR25CS413)
-2. Mohith G(1CR24CS105)
-3. Mokshith Ramesh(1CR24CS106)
-4. Amruth H(1CR25CS403) 
+1.GAGAN P (1CR25CS406)
