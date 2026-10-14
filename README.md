@@ -1,9 +1,5 @@
 # DSA-Hackathon
 
-Repository: SriBalajiR28/DSA-Hackathon
-
-Languages: Python (≈79%), Java (≈21%)
-
 This repository contains solutions and utilities for several algorithmic problems used in a hackathon-style set of challenges. The main components are:
 
 - common/ - small utilities (CSV read/write helper).
