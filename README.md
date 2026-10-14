@@ -29,8 +29,6 @@ This repository contains solutions and utilities for several algorithmic problem
 
 - `graph_path.csv` — another CSV present at repo root (small example file).
 
-- `app.py` — empty placeholder file (size 0).
-
 ---
 
 ## problem1_maze — maze_solver.py
